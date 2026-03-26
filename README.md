@@ -19,6 +19,9 @@ This project analyzes password strength using Java and Python.
 - Common password detection
 
 ## ▶️ How to Run
+
+```bash
 cd java-version
 javac PasswordCheckerGUI.java
 java PasswordCheckerGUI
+```
